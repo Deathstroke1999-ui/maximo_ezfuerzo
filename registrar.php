@@ -14,8 +14,8 @@ if (isset($_POST['register'])) {
         $resultado= mysqli_query($conex,$consulta);
 	    if ($resultado) {
 	    	?> 
-	    	<h3 class="ok">¡Te has inscripto correctamente!</h3>
-      <!-- Pepereto --->
+	    	<h3 class="ok">¡Te has inscripto correctamente! 123</h3>
+      <!-- Pepereto dasfasdfasdfasdfasdfasdf --->
       
            <?php
 	    } else {

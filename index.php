@@ -16,13 +16,13 @@
       </div>
        
       <div class="row">
-      <div class="col-md-12"><p type="name:"><input type="text" name="name"placeholder="Write your name here.."></input></p></div>
+      <div class="col-md-12"><p type="Nombre Completo:"><input type="text" name="name"placeholder="Ingrese su nombre completo"></input></p></div>
       </div>
-      <div class="row">  <div class="col-md-12"> <p type="email:" ><input type="email" name="email" placeholder="Let us know how to contact you back.."></input></p></div></div>
+      <div class="row">  <div class="col-md-12"> <p type="Correo:" ><input type="email" name="email" placeholder="Ingrese su correo electrónico"></input></p></div></div>
     
-      <div class="row"> <div class="col-md-12">  <p type="Phone Number:"><input type="text"name="telefono" placeholder="Let us know how to contact you back.."></input></p></div></div>
+      <div class="row"> <div class="col-md-12">  <p type="Celular"><input type="text"name="telefono" placeholder="Ingrese su N° Celular"></input></p></div></div>
      
-      <div class="row"><div class="col-md-12"> <p type="Message:" ><input type="text" name="mensaje" placeholder="What would you like to tell us.."></input></p></div></div>
+      <div class="row"><div class="col-md-12"> <p type="Pregunta:" ><input type="text" name="mensaje" placeholder="Conoces amigos que quieran tomar los 7 dias?"></input></p></div></div>
       
       <div class="row"><div class="col-md-12">
         <input type="submit" name="register" class="button"></div></div>
@@ -30,7 +30,7 @@
       
         <div class="numero">
         <div class="row">
-          <div class="col-md-12">  <h4>001 1023 567 - cva.250199@gmail.com<h4></h4></div>
+          <div class="col-md-12">  <h4>Contacto : 9491319490 - kaizen1602@gmail.com<h4></h4></div>
         </div>
           
                                

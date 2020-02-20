@@ -15,6 +15,8 @@ if (isset($_POST['register'])) {
 	    if ($resultado) {
 	    	?> 
 	    	<h3 class="ok">¡Te has inscripto correctamente!</h3>
+      <!-- Pepereto --->
+      
            <?php
 	    } else {
 	    	?> 

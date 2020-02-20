@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{1A1A8E7F-FDB1-45A4-A13A-CAF22281562F}"
+	ProjectSection(SolutionItems) = preProject
+		estilos.css = estilos.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{8F4E81A0-F24A-4EF0-AA5B-999442B6698B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "content", "content", "{CC4EB3D5-D5CE-44E3-8C23-A725D414A909}"
+	ProjectSection(SolutionItems) = preProject
+		db.php = db.php
+		index.php = index.php
+		registrar.php = registrar.php
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{C5366C41-56F8-4B24-86CC-4BDD10E20AC1}"
+	ProjectSection(SolutionItems) = preProject
+		email-3249062_1280 (1).png = email-3249062_1280 (1).png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

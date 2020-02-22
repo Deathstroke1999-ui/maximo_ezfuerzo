@@ -14,9 +14,12 @@ if (isset($_POST['register'])) {
         $resultado= mysqli_query($conex,$consulta);
 	    if ($resultado) {
 	    	?> 
-	    	<h3 class="ok">¡Te has inscripto correctamente! 123</h3>
-      <!-- Pepereto dasfasdfasdfasdfasdfasdf --->
-      
+			<h3 class="ok">¡Te has inscripto correctamente!</h3>
+			<?php
+
+header('Location: registrado.php');
+exit;
+?>
            <?php
 	    } else {
 	    	?> 

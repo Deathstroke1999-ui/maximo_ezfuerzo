@@ -1,28 +1,28 @@
 body{box-sizing: border-box;
     margin: 0;
     padding: 0;
-    background-image: url(email-3249062_1280.png);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-image: center;
--webkit-background-size: cover;
--moz-background-size: cover;
--o-background-size: cover;
-background-size: cover;
+    background-color:#FFFCFC ;
+    height: 100%;
+
+
     }
 .form{
-    width:340px;height:580px;
+    width:340px;
+
     background:#e6e6e6;border-radius:8px;
-    box-shadow:0 0 40px -10px #000;margin:calc(50vh - 220px) auto;
+    box-shadow:0 0 40px -10px #000;
+    margin-top: 75px;
     padding:20px 30px;max-width:calc(100vw - 40px);
     box-sizing:border-box;
     font-family:'Montserrat',sans-serif;
+   
+   
     }
-h2
+.h2_1
 {
     margin:10px 0;
     padding-bottom:10px;
-    width:200px;color:black;
+    width:282px;color:black;
     border-bottom:3px solid black;
 }
 
@@ -34,3 +34,74 @@ p:before{content:attr(type);display:block;margin:28px 0 0;font-size:14px;color:b
 .button:hover{background:#78788c;color:#fff}
 h4{font-size: 15px;}
 .numero{padding-left: 10px;}
+
+
+.h2_2{
+ text-align: center;
+
+ font-size: 23px;
+ margin-top: 20px;
+
+ 
+}
+#check{
+width: 50px;
+height: 50px;
+margin-left: 120px;
+
+}
+
+
+.form2{width:360px;height:405px;
+    background:#e6e6e6;border-radius:8px;
+    box-shadow:0 0 40px -10px #000;
+    padding:20px 30px;max-width:calc(100vw - 40px); 
+    margin: auto;
+    padding: auto;
+  
+    box-sizing:border-box;
+
+    margin-left: 400px;
+    }
+    .p_1{
+        font-size: 15px;
+   
+    }
+    h1,h2,h3,h4,h5,h6{
+        font-family: Helvetica, sans-serif;
+    }
+    .form3{
+        width:360px;height:214px;
+    background:#363636;border-radius:8px;
+    box-shadow:0 0 40px -10px #000;
+    margin: auto;
+    padding: auto;
+    padding:20px 30px;max-width:calc(100vw - 40px);
+    box-sizing:border-box;
+
+    }
+    .h3_1{
+        font-size: 21px;
+        text-align: center;
+        color:#BFC8D5;
+        
+        }
+        .redes{
+            margin-top: 25px;
+        }
+     
+        .fondogym{
+          margin-top: 219px;
+              
+        }
+        .logo_h4{
+            text-align: center;
+        }
+        .bg_colorblack{
+            background-color: #FFFCFC ;
+            }
+        .bg_colorgrey{
+            background-color: #FFFCFC ;
+        }
+        .fondo2{margin-left: 320px;}
+   
